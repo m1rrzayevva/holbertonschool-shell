@@ -1,1 +1,1 @@
-Script that counts the number of directories in the PATH
+Script that lists all local and environment variables, and functions
